@@ -55,7 +55,8 @@ Most of the functions can be kept as is and easily adapted to other datasets. Ho
 
 ![ISIC_seg][isic_results]
 
-[synth_kidney]: https://github.com/kiretd/Unsupervised-MIseg/sample_images/synth_kidneys.png
-[synth_skin]: https://github.com/kiretd/Unsupervised-MIseg/sample_images/synth_skin.png
-[kidney_results]: https://github.com/kiretd/Unsupervised-MIseg/sample_images/kidney_results_figure.png
-[isic_results]: https://github.com/kiretd/Unsupervised-MIseg/sample_images/isic_results_figure.png
+[synth_kidney]: https://github.com/kiretd/Unsupervised-MIseg/blob/master/sample_images/synth_kidneys.png
+[synth_skin]: https://github.com/kiretd/Unsupervised-MIseg/blob/master/sample_images/synth_skin.png
+[kidney_results]: https://github.com/kiretd/Unsupervised-MIseg/blob/master/sample_images/kidney_results_figure.png
+[isic_results]: https://github.com/kiretd/Unsupervised-MIseg/blob/master/sample_images/isic_results_figure.png
+
